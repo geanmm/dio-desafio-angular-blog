@@ -1,0 +1,9 @@
+@media screen and (max-width: 768px) {
+	.content__cover {
+		width: 100%;
+		padding: 0 2rem;
+	}
+	.content__title > h1 {
+		font-size: 1.3rem;
+	}
+}

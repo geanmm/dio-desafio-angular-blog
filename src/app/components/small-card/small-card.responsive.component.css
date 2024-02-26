@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px) {
+	.small-card__title > h2 {
+		font-size: 1rem;
+	}
+}
+
+@media screen and (max-width: 425px) {
+	.container__small-card > a {
+		grid-template-columns: 2fr 3fr;
+		gap: 1rem;
+		margin-bottom: 1rem;
+	}
+}
